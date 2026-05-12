@@ -3,7 +3,9 @@ export default function Natalia() {
     <section className="natalia" id="natalia">
       <div className="natalia-inner">
         <div className="natalia-grid">
-          <div className="natalia-portrait"></div>
+          <div className="natalia-portrait">
+            <img src="/foto-natalia.jpeg" alt="Natalia Arredondo" />
+          </div>
           <div className="natalia-text">
             <span className="mono-label">→ Instructora</span>
             <h2>
